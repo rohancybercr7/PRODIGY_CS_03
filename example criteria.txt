@@ -1,0 +1,20 @@
+Password Strength Criteria:
+
+Length: Password should be at least 8 characters long (though longer is better).
+Uppercase Letters: Should contain at least one uppercase letter.
+Lowercase Letters: Should contain at least one lowercase letter.
+Numbers: Should contain at least one numeric digit.
+Special Characters: Should contain at least one special character (e.g., !@#$%^&*).
+
+
+
+
+
+
+
+
+Password Strength Evaluation:
+
+Weak: Missing several criteria (e.g., too short, lacks complexity).
+Medium: Meets some criteria but could be stronger.
+Strong: Meets all criteria and is of good length.
